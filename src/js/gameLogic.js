@@ -151,12 +151,12 @@ function addEventListenerGrid(gridNodes) {
           }
           if (count === elements) {
             if (checkVictory()) {
-              setTimeout(alertFunction, 3000);
+              setTimeout(alertFunction, 500);
               function alertFunction() {
                 alert("Victory");
               }
             } else {
-              setTimeout(alertFunction, 3000);
+              setTimeout(alertFunction, 500);
               function alertFunction() {
                 alert("Try again!");
               }
