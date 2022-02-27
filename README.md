@@ -1,3 +1,5 @@
+Hey guys!
+
 I have chosen to implement this game without Classes and objects, focusing on pure functional Javascript. This due to the way that I have been working with Reac native, were classes are no longer in fashion. However if you wish, I would happily refactor the program into a class based one.
 
 Be aware: The game has only been tested for development mode.
