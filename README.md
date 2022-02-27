@@ -13,5 +13,6 @@ The game is divided into 6 different files and runs through the following order:
 
 
 To play the game: 
+- run npm install, then npm start and open the local host (http://localhost:8080/)
 - select difficulty 
 - then drag the tiles from the rack on the right into their correct positions. If the posiotions are correct, the player will get an alert message. 
