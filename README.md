@@ -10,3 +10,8 @@ The game is divided into 6 different files and runs through the following order:
 4. gameComponents.js inhabits all the functions for creating game components
 5. setters.js This file contains setter methods, initial data for the game as well as some specific user generated styling data.
 6. utils.js there is only one method for shuffling Node list of puzzle tiles.
+
+
+To play the game: 
+- select difficulty 
+- then drag the tiles from the rack on the right into their correct positions. If the posiotions are correct, the player will get an alert message. 
